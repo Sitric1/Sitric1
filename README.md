@@ -29,4 +29,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows11" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="60" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21~bgwhite.svg" alt="wireshark" width="100" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="80" height="60"/>
 </p>
