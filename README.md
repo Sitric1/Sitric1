@@ -40,3 +40,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=sitric1&show_icons=true&theme=aura" alt="GitHub Stats" />
 </div>
+<h2>TryHackMe</h2>
+<div>
+  <a href="https://tryhackme.com/p/sitric1" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Sitric.png" alt="Your Image Badge" />
+  </a>
+</div>
