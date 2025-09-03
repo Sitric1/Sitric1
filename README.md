@@ -2,15 +2,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,8,30&text=Hello%20World!&fontColor=00000&animation=twinkling)
 
 
+# Hi there! 👋
+
+💻 **IT Technician**  + 🎓 **Networking Technologies Graduate**
+
+I specialize in **automation, network security, and agentic AI systems**, with a passion for leveraging technology to solve real-world problems.
+
+### 🔍 **Interests & Side Projects**
+Beyond my core work, I love diving into:
+- **Quantum Computing** & **Radar Technologies**
+- **Urban Planning** & **Geopolitics**
+- **AI Alignment** & **Philosophy**
+- **Open Source** & **FOSS Advocacy**
+<br>
+🚀 **Always learning, always building.**
+
+
+<br>
+<br>
 
 
 
-
-
-
-
-
-<h2> 🚀 &nbsp;Skills and tools I've utilised</h2>
+<h2> &nbsp;Skills and tools I've utilised</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
