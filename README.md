@@ -6,7 +6,7 @@
 
 💻 **IT Technician**  + 🎓 **Networking Technologies Graduate**
 
-I specialize in **automation, network security, and agentic AI systems**, with a passion for leveraging technology to solve real-world problems.
+I specialize in **automation, network security, and IT administration**, with a passion for leveraging technology to solve real-world problems.
 
 ### 🔍 **Interests & Side Projects**
 Beyond my core work, I love diving into:
