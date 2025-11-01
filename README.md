@@ -15,7 +15,6 @@ Beyond my core work, I love diving into:
 - **AI Alignment** & **Philosophy**
 - **Open Source** & **FOSS Advocacy**
 <br>
-🚀 **Always learning, always building.**
 
 
 <br>
