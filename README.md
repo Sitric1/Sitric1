@@ -18,6 +18,8 @@ Beyond my core work, I love diving into:
 
 
 <br>
+
+![Club Penguin Pizza](https://media.tenor.com/pJaEbhfzhAUAAAAj/club-penguiin-pizza.gif)
 <br>
 
 
@@ -48,10 +50,7 @@ Beyond my core work, I love diving into:
 </p>
 
 
-<h2>My GitHub Stats</h2>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sitric1&show_icons=true&theme=aura" alt="GitHub Stats" />
-</div>
+
 <h2>TryHackMe</h2>
 <div>
   <a href="https://tryhackme.com/p/sitric1" target="_blank">
