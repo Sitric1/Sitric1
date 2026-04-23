@@ -25,7 +25,7 @@ Beyond my core work, I love diving into:
 
 
 <h2> &nbsp;Skills and tools I've utilised</h2>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -47,7 +47,7 @@ Beyond my core work, I love diving into:
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/a8c77715ae1efc679260e2164eed20009d23495b/svg/microsoft-intune.svg" alt="intune" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubiquiti-unifi.svg" alt="unifi" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovh.svg" alt="ovh cloud" width="60" height="60"/>
-</p>
+</div>
 
 
 
