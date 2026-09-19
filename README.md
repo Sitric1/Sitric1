@@ -42,10 +42,8 @@ Beyond my core work, I love diving into:
 
 ## 📈 GitHub Stats 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sitric1&theme=dark&hide_border=false)
 
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sitric1&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitric1&layout=compact&theme=tokyonight"/> </p>
 
 <h2>TryHackMe</h2>
 <div>
